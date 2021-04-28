@@ -10,6 +10,7 @@ Inspiration and fragments of the code came from fellow developers [iphong](https
 
 ## Features
 
+* Automatically sends a heartbeat message every 10 seconds
 * Controls open, close, stop and custom position (0 up to 100)
 * Position feedback once the curtain motor stops
 * Hass Services:
